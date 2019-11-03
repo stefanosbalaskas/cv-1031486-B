@@ -1,0 +1,21 @@
+############################
+# personal.yml holds personal information
+############################
+#
+# Required value:
+name: Stefanos Balaskas # full name
+#
+# Optional values: 
+# These can be commented out or deleted.
+display-name: Stefanos Balaskas “stef” # name to be displayed.
+date-of-birth: YYYY-MM-DD # in YYYY-MM-DD format
+citizenships:
+- State Greece
+- City Patra
+address:
+- Adress Kanakari
+- Education HCI Master
+- Adress University of Patras
+telephone: +30 697 554 6193
+email: stefbalaskas@gmail.com
+

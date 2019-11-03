@@ -1,0 +1,19 @@
+############################
+## format.yml holds the main options for formatting.
+############################
+#
+#
+## General options. These are all required.
+title: "Stefanos Balaskas, stef CV" # This is for the pdf metadata and <title> in html
+author: 
+- Stefanos Balaskas # This is the *author*, not the person, though it’s likely the same.
+- Stefanos Balaskas
+author-lastname-first: # Same as above, but for Dublin Core metadata
+- "Stefanos Balaskas"
+- "Stefanos Balaskas"
+mode: markdown # or yaml. Yaml mode, however, is a future feature.
+contact-information: Contact Information # The text for the contact information header.
+markers: # The glyphs that begin lists
+  level-1: "•" # First level marker in a list.
+  level-2: "-" # Second level marker.
+  level-3: "*" # Third level.
